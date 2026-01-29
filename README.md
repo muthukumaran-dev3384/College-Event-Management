@@ -7,7 +7,7 @@
 
  ** organizer Details **
   
-   User Name : staff1
+   User Name : cs
    Password  : 1234 
 
    EXCEL FILE SAMPLE 
